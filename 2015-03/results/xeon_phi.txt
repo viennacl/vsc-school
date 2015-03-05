@@ -1,0 +1,9 @@
+# Intel(R) Many Integrated Core Acceleration Card
+# Using OpenCL, OpenMP enabled
+#
+# Size     Time       Iters       RelResidual
+3969      1.33661     25       9.03134e-09
+16129      2.90454     39       7.54986e-09
+65025      4.94638     53       7.94117e-09
+261121      9.83396     78       7.79216e-09
+
